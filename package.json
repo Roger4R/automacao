@@ -1,0 +1,14 @@
+{
+  "name": "automacao",
+  "version": "1.0.0",
+  "description": "Home Automation Custom Node",
+  "dependencies": {
+    "node-red": ">=1.0.0"
+  },
+  "node-red": {
+    "nodes": {
+      "automacao": "automacao.js"
+    }
+  }
+}
+}
